@@ -1,4 +1,4 @@
-# CypressBasic
+# CypressBasicTypeScript
 Creating a Basic Cypress Script using TypeScript
 
 
